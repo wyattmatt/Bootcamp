@@ -6,8 +6,8 @@ Welcome to the **Bootcamp Repository**! This repository contains all the resourc
 
 The repository contains the following key components:
 
-- **`assignments/`**: Tasks and assignments to practice and solidify learning.
 - **`code/`**: Core implementations and program examples.
+- **`assignments/`**: Tasks and assignments to practice and solidify learning.
 - **`references/`**: Helpful guides, references, and related materials.
 - **`sessions/`**: Content and materials from training sessions or lectures.
 - **`tools/`**: Scripts and resources to assist in development and learning.
