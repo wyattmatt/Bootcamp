@@ -66,7 +66,7 @@ Please ensure your code follows the repository's coding standards and includes c
 
 ## 🧑‍💻 Maintainer
 
-- [Wyatt Matt](https://github.com/wyattmatt)
+- [Wyatt Matthew](https://github.com/wyattmatt)
 
 If you have any questions or issues, feel free to open an issue or contact the maintainer.
 
